@@ -1,0 +1,2 @@
+# Trojkaty
+cwiczenie #sp
